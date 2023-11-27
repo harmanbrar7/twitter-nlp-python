@@ -1,4 +1,4 @@
-# twitter-nlp-python
+# Natural Language Processing (NLP) Model for Twitter/X
 NLP model analyzes 1.6 million tweets for sentiment classification
 
 # Data Links
